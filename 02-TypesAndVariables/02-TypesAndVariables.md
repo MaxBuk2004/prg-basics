@@ -1,4 +1,4 @@
-<!--
+]<!--
 (c) Janusz Stal
 Krakow University of Economics
 Department of Informatics
